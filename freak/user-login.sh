@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Script Copyright www.fornesia.com
+# Script Copyright KangSoneD
 # ==========================
 # 
 
@@ -64,4 +64,4 @@ echo "------------------------------------------------"
 
 echo "";
 
-echo "www.fornesia.com";
+echo "www.son48.com";
